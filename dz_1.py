@@ -39,3 +39,4 @@ def f3(list1):
 
 print(f3([{"cijena": 8, "naziv": "Kruh", "kolicina": 1}, {"cijena": 13, "naziv": "Sok", "kolicina": 2},
           {"cijena": 7, "naziv": "Upaljac", "kolicina": 1}]))
+
